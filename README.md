@@ -9,7 +9,7 @@ students/professionals how to create a database, connect to it and insert data f
 OR
 * If you can't install an IDE + Python, you can use a free online source called jupyter notebook: https://jupyter.org/try
 
-##Step 1
+## Step 1
 Once PostgreSQL is installed on your system, open the PostgreSQL Folder in your program list, and open the SQL shell (psql) command line interface. Complete Steps listed below:
 Server [localhost]: **press ENTER (this is a default setting)**
 Database [postgres]: **press ENTER (this is the default database)**
@@ -27,12 +27,12 @@ Type "help" for help.
 
 postgres=#
 
-##Step 2
+## Step 2
 Find any dataset that you find interesting (you can use the following sites to assist you):
 
 
 
-##Step 3
+## Step 3
 #If Using An IDE:
 Open your terminal and type `!pip install psycopg2`  Note: We're using psycopg2, b/c it is the most popular PostgreSQL database adapter for Python
 
