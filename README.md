@@ -39,11 +39,4 @@ Open your terminal and type `!pip install psycopg2`  Note: We're using psycopg2,
 #If Using jupyter notebook:
 Type `!pip install psycopg2` and click run
 
-
-
-
-
-
-
-
-
+# MORE SETPS COMING SOON...
