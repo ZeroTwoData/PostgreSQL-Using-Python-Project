@@ -19,13 +19,13 @@ Password for user postgres: **use the password you created during the installati
 
 IF YOU SEE THIS TEXT BELOW, THIS MEANS THAT YOU HAVE CONNECTED TO THE DEFAULT POSTGRESQL DATABASE called: postgres. 👍 Now minimize this tab.
 
-psql (14.2)
-WARNING: Console code page (437) differs from Windows code page (1252)
-         8-bit characters might not work correctly. See psql reference
-         page "Notes for Windows users" for details.
-Type "help" for help.
+psql (14.2) <br />
+WARNING: Console code page (437) differs from Windows code page (1252) <br />
+         8-bit characters might not work correctly. See psql reference <br />
+         page "Notes for Windows users" for details. <br />
+Type "help" for help. <br />
 
-postgres=#
+postgres=# <br />
 
 ## Step 2
 Find any dataset that you find interesting (you can use the following sites to assist you):
