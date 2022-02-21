@@ -7,7 +7,7 @@ students/professionals how to create a database, connect to it and insert data f
 * Install PostgreSQL: https://www.postgresql.org/download/  (During the installation process, remember to keep track of the password you created)
 * Install Python Onto Your IDE (VS Code, PyCharm, etc.): https://www.python.org/ (During the installation process click checkbox ADD TO PATH)
 OR
-*If you can't install an IDE + Python, you can use a free online source called jupyter notebook: https://jupyter.org/try
+* If you can't install an IDE + Python, you can use a free online source called jupyter notebook: https://jupyter.org/try
 
 ##Step 1
 Once PostgreSQL is installed on your system, open the PostgreSQL Folder in your program list, and open the SQL shell (psql) command line interface. Complete Steps listed below:
