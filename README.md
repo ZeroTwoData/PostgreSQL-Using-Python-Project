@@ -29,8 +29,8 @@ postgres=#
 
 ## Step 2
 Find any dataset that you find interesting (you can use the following sites to assist you):
-
-
+# https://www.kaggle.com/
+# https://registry.opendata.aws/
 
 ## Step 3
 #If Using An IDE:
