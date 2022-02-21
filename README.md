@@ -4,8 +4,8 @@ This project was developed to test my knowledge of creating & connecting to a Po
 students/professionals how to create a database, connect to it and insert data from a dataset into a PostgreSQL database only using Python.
 
 ## Prerequisites:
-*Install PostgreSQL: https://www.postgresql.org/download/  (During the installation process, remember to keep track of the password you created)
-*Install Python Onto Your IDE (VS Code, PyCharm, etc.): https://www.python.org/ (During the installation process click checkbox ADD TO PATH)
+* Install PostgreSQL: https://www.postgresql.org/download/  (During the installation process, remember to keep track of the password you created)
+* Install Python Onto Your IDE (VS Code, PyCharm, etc.): https://www.python.org/ (During the installation process click checkbox ADD TO PATH)
 OR
 *If you can't install an IDE + Python, you can use a free online source called jupyter notebook: https://jupyter.org/try
 
