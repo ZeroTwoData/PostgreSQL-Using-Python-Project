@@ -1,12 +1,12 @@
 # PostgreSQL-Using-Python-Project
 
-This project was developed to test my knowledge of creating & connecting to a PostgreSQL (pssql) database using Python. The purpose of this upload, is to teach aspiring data
+This project was developed to test my knowledge of creating & connecting to a PostgreSQL (psql) database using Python. The purpose of this upload, is to teach aspiring data
 students/professionals how to create a database, connect to it and insert data from a dataset into a PostgreSQL database only using Python.
 
 ## Prerequisites:
 * Install PostgreSQL: https://www.postgresql.org/download/  (During the installation process, remember to keep track of the password you created)
 * Install Python Onto Your IDE (VS Code, PyCharm, etc.): https://www.python.org/ (During the installation process click checkbox ADD TO PATH)
-OR
+<b>OR</b>
 * If you can't install an IDE + Python, you can use a free online source called jupyter notebook: https://jupyter.org/try
 
 ## Step 1
@@ -29,14 +29,22 @@ postgres=# <br />
 
 ## Step 2
 Find any dataset that you find interesting (you can use the following sites to assist you):
-# https://www.kaggle.com/
-# https://registry.opendata.aws/
+### https://www.kaggle.com/
+### https://registry.opendata.aws/
 
 ## Step 3
 #If Using An IDE:
 Open your terminal and type `!pip install psycopg2`  Note: We're using psycopg2, b/c it is the most popular PostgreSQL database adapter for Python
 
 #If Using jupyter notebook:
-Type `!pip install psycopg2` and click run
+Type `!pip install psycopg2` in the first cell and click run
+
+## Step 4
+#If Using An IDE:
+Create a new file called PostgreSQL.py & type `import psycopg2`
+
+#If Using jupyter notebook:
+Type `import psycopg2` in the next cell and click run
+
 
 # MORE SETPS COMING SOON...
