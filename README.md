@@ -11,7 +11,7 @@ students/professionals how to create a database, connect to it and insert data f
 
 ## Step 1
 Once PostgreSQL is installed on your system, open the PostgreSQL Folder in your program list, and open the SQL shell (psql) command line interface. Complete Steps listed below:
-Server [localhost]: **press ENTER (this is a default setting)**
+<br /> Server [localhost]: **press ENTER (this is a default setting)**
 Database [postgres]: **press ENTER (this is the default database)**
 Port [5432]: **press ENTER (this is the default port #)**
 Username [postgres]: **press ENTER (this is the default username)**
