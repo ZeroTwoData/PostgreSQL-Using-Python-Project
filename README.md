@@ -1,5 +1,6 @@
 # PostgreSQL-Using-Python-Project
 
+## Introduction & Goals
 This project was developed to test my knowledge of creating & connecting to a PostgreSQL (psql) database using Python. The purpose of this upload, is to teach aspiring data
 students/professionals how to create a database, connect to it and insert data from a dataset into a PostgreSQL database only using Python.
 
